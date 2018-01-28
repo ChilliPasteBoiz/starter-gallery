@@ -9,6 +9,6 @@ Change Log (Newest Addition at Bottom)
 ## 2018-01/24
 ## 2018-01/24 : Added CogeIgniter into starter Repo, set up controllers, removed .html filed from js folder.
 ## 2018-01/27 : Completed the second tutorial, Trivial to Basic Website Conversion
-
+## 2018-01/27 : Imported images.sql completed Basic to Good Website Conversion
 
 
